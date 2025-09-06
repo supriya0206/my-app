@@ -35,7 +35,7 @@ function App() {
   // }
 
    const toggleMode = ()=>{ // cls
-    removeBodyClasses();
+    // removeBodyClasses();
     // console.log(cls);
     // document.body.classList.add('bg-'+ cls)
      if(mode === 'light'){
